@@ -419,5 +419,3 @@ python dimensionality_reduction.py
 
 
 ---
-
-*Built as part of a learning journey from Senior PM to AI PM — March 2026*
